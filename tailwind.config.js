@@ -10,6 +10,8 @@ module.exports = {
     extend: {
       backgroundImage: {
         'home-mobile': "url('assets/home/background-home-mobile.jpg')",
+        'destination-mobile': "url('assets/destination/background-destination-mobile.jpg')",
+
       },
       padding: {
         "default-mobile": "20px",
