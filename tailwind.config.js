@@ -19,6 +19,7 @@ module.exports = {
       },
       padding: {
         "default-mobile": "20px",
+        "default-desktop": "40px",
       }
     },
   },
