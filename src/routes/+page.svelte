@@ -1,4 +1,4 @@
-<div class="h-screen w-screen bg-home-mobile object-cover flex flex-col justify-start text-white p-default-mobile box-border" >
+<div class="h-screen w-screen bg-home-mobile md:bg-home-desktop bg-cover flex flex-col justify-start text-white p-default-mobile box-border" >
   <div class="mt-[10vh]" >
     <h5 class="font-Barlow-Condensed-Regular text-[18px] tracking-[3px] font-extralight text-center" >SO, YOU WANT TO TRAVEL TO</h5>
     <h1 class="text-[80px] font-Bellefair-Regular text-center ">SPACE</h1>
@@ -12,3 +12,4 @@
   </div>
   <button class="m-auto font-Bellefair-Regular rounded-full bg-white h-[150px] w-[150px] text-[#0B0D17] text-[18px]">EXPLORE</button>
 </div>
+s

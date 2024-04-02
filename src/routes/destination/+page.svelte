@@ -49,7 +49,7 @@
    }
 </script>
 
-<div class="w-screen bg-destination-mobile object-cover flex flex-col justify-start text-white p-default-mobile box-border" >
+<div class="w-screen bg-destination-mobile bg-cover flex flex-col justify-start text-white p-default-mobile box-border" >
    <div class="mt-[10vh]" >
     <h5 class="font-Barlow-Condensed-Regular text-[18px] tracking-[3px] text-center" >PICK YOUR DESTINATION</h5>
    </div>
