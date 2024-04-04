@@ -16,6 +16,12 @@ module.exports = {
         'destination-desktop': "url('assets/destination/background-destination-desktop.jpg')",
         'crew-desktop': "url('assets/crew/background-crew-desktop.jpg')",
         'technology-desktop': "url('assets/technology/background-technology-desktop.jpg')",
+        'technology-vehicle-portrait': "url('assets/technology/image-launch-vehicle-portrait.jpg')",
+        'technology-vehicle-landscape': "url('assets/technology/image-launch-vehicle-landscape.jpg')",
+        'technology-port-portrait': "url('assets/technology/image-spaceport-portrait.jpg')",
+        'technology-port-landscape': "url('assets/technology/image-spaceport-landscape.jpg')",
+        'technology-capsule-portrait': "url('assets/technology/image-space-capsule-portrait.jpg')",
+        'technology-capsule-landscape': "url('assets/technology/image-space-capsule-landscape.jpg')"
       },
       padding: {
         "default-mobile": "20px",

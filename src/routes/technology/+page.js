@@ -5,3 +5,4 @@ export async function load() {
     technology,
   };
 }
+export const ssr = false;
