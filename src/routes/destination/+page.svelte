@@ -95,7 +95,7 @@
          </button>
          
       </div>
-      <div>
+      <div class="px-[25px] mb-[25px]" >
             <h2 class="mt-[15px] text-center font-Bellefair-Regular text-[60px] font-extralight md:text-left">
                {destination_name}
             </h2>

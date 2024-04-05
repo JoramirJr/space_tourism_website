@@ -6,7 +6,7 @@
 	}
 </script>
 {#if open}
-  <div class="text-white p-[20px] absolute w-[254px] right-0 top-0 h-screen bg-white/10 opacity-100 backdrop-blur-xl z-1" >
+  <div class="z-10 text-white p-[20px] absolute w-[254px] right-0 top-0 h-screen bg-white/10 opacity-100 backdrop-blur-xl" >
     <div class="flex justify-end">
       <button on:click={handle_menu} >
       <img src="/assets/shared/icon-close.svg" alt="Close mobile menu icon" />

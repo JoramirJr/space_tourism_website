@@ -20,9 +20,7 @@
 	<button class="min-[668px]:hidden" on:click={handle_mobile_menu} >
 		<img src="/assets/shared/icon-hamburger.svg" width="25" height="25" alt="Hamburger Mobile Menu" />
 	</button>
-	<nav class="flex gap-[40px] h-[6em] justify-center box-border absolute text-[10px] right-0 
-	bg-white/10 opacity-100 backdrop-blur-xl w-[60vw] max-[667px]:hidden 
-	*:h-full *:grid *:place-items-center">
+	<nav class="flex gap-[40px] h-[6em] justify-center box-border absolute text-[10px] right-0 bg-white/10 opacity-100 backdrop-blur-xl w-[60vw] max-[667px]:hidden *:h-full *:grid *:place-items-center">
 		  <a href="/" 
 				on:click={() => { handle_desktop_menu("home") }}
 			  class={clsx({ 
