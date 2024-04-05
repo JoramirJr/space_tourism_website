@@ -38,16 +38,14 @@ Users should be able to:
 
 ### Built with
 
-- Svelte/Svelte Kit
-- TailwindCSS
+- [Svelte](https://svelte.dev/)
+- [SvelteKit](https://kit.svelte.dev/)
+- [TailwindCSS](https://tailwindcss.com/)
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Svelte](https://svelte.dev/)
-- [SvelteKit](https://kit.svelte.dev/)
-- [TailwindCSS](https://tailwindcss.com/)
 
 ### What I learned
 
