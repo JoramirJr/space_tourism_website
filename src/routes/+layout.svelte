@@ -17,9 +17,9 @@
 </script>
 
 <header class="flex justify-between p-default-mobile md:p-default-desktop bg-transparent fixed left-0 top-0 w-screen" >
-	<img src="/assets/shared/logo.svg" width="35" height="35" alt="Space Tourism Logo" />
+	<img src="{base}/assets/shared/logo.svg" width="35" height="35" alt="Space Tourism Logo" />
 	<button class="min-[668px]:hidden" on:click={handle_mobile_menu} >
-		<img src="/assets/shared/icon-hamburger.svg" width="25" height="25" alt="Hamburger Mobile Menu" />
+		<img src="{base}/assets/shared/icon-hamburger.svg" width="25" height="25" alt="Hamburger Mobile Menu" />
 	</button>
 	<nav class="flex gap-[40px] h-[6em] justify-center box-border absolute text-[10px] right-0 bg-white/10 opacity-100 backdrop-blur-xl w-[60vw] max-[667px]:hidden *:h-full *:grid *:place-items-center">
 		  <a href="{base}/" 
