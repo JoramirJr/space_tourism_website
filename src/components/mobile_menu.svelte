@@ -1,6 +1,7 @@
 <script>
   export let open = false; 
-  
+  import { base } from '$app/paths';
+
   function handle_menu() {
 		open = !open;
 	}
@@ -15,25 +16,25 @@
     <div class="font-Barlow-Condensed-Regular text-[20px] mt-[60px] p-[20px] flex flex-col gap-[20px] w-full *:w-full *:flex *:gap-[10px]" >
       <h3>
         <b>00</b>
-        <a href="/" class="font-extralight " >
+        <a href="{base}/" class="font-extralight " >
           HOME
         </a >
       </h3>
       <h3>
         <b>01</b>
-        <a href="/destination" class="font-extralight " >
+        <a href="{base}/destination" class="font-extralight " >
           DESTINATION
         </a >
       </h3>
       <h3>
         <b>02</b>
-        <a href="/crew" class="font-extralight " >
+        <a href="{base}/crew" class="font-extralight " >
           CREW
         </a >
       </h3>
       <h3>
         <b>03</b>
-        <a href="/technology" class="font-extralight " >
+        <a href="{base}/technology" class="font-extralight " >
           TECHNOLOGY
         </a >
       </h3>
