@@ -10,5 +10,5 @@
       experience!
     </h2>
   </div>
-  <button class="m-auto font-Bellefair-Regular rounded-full bg-white h-[150px] w-[150px] text-[#0B0D17] text-[18px] md:text-[22px] md:mr-[15vw] md:mb-[80px]  md:h-[200px] md:w-[200px] lg:text-[26px] lg:h-[225px] lg:w-[225px]">EXPLORE</button>
+  <button class="m-auto font-Bellefair-Regular rounded-full bg-white h-[150px] w-[150px] text-[#0B0D17] text-[18px] hover:cursor-pointer transform duration-500 hover:scale-125 hover:bg-[#e5e7eb] md:text-[22px] md:mr-[15vw] md:mb-[80px]  md:h-[200px] md:w-[200px] lg:text-[26px] lg:h-[225px] lg:w-[225px]">EXPLORE</button>
 </div>
