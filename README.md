@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site URL](https://joramirjr.github.io/space_tourism_website/)
+- Live Site URL: [Live Site URL](https://creative-caramel-a31cb0.netlify.app/)
 
 ## My process
 
