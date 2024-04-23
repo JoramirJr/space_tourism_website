@@ -49,11 +49,6 @@
   }
 </script>
 
-<svelte:head>
-  <title>Technology</title>
-  <meta name="description" content="Choice of travel vehicle" />
-</svelte:head>
-
 <div
   class="w-screen h-screen bg-crew-mobile bg-cover flex flex-col justify-start text-white p-default-desktop box-border sm:bg-crew-desktop sm:flex sm:flex-row-reverse sm:justify-between"
 >
